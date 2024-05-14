@@ -1,3 +1,6 @@
+![Screenshot](clinet/Fianance.png)
+
+
 Finance Dashboard App
 Welcome to our comprehensive finance dashboard application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This dashboard provides powerful financial insights and features a range of functionalities to enhance decision-making and data visualization.
 
@@ -22,7 +25,7 @@ Install dependencies:
 
 bash
 Copy code
-cd finance-dashboard
+cd dashboard
 npm install
 Set up environment variables:
 
