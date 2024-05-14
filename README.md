@@ -1,4 +1,4 @@
-![Screenshot](clinet/Fianance.png)
+![Screenshot](client/Fianance.png)
 
 
 Finance Dashboard App
